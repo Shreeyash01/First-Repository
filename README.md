@@ -1,9 +1,7 @@
 <h1 align="center">Hi! 👋, I'm SHREEYASH</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<!-- <p align="left"> <a href="https://twitter.com/_shreeyash" target="blank"><img src="https://img.shields.io/twitter/follow/_shreeyash?logo=twitter&style=for-the-badge" alt="_shreeyash" /></a> </p> -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/453128/screenshots/3849814/media/b47cd9e62d8e98e85c4763616735bedc.gif">
 
 <h1 align="center">About me! 🚀</h1>
 
