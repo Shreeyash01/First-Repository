@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Basic Web development projects.**
 
-- 👨‍💻 [https://shreeyash01.github.io/Personal-WebSite/](https://shreeyash01.github.io/Personal-WebSite/)
+- 👨‍💻 [https://shreeyash01.github.io/Personal-WebSite/](https://shreeyash01.github.io/Portfolio/)
 
 - 💬 Ask me about **React and Web3.**
 
